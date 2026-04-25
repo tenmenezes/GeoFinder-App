@@ -117,7 +117,7 @@ npx expo start
 
 ## Preview
 
-> (adicione aqui screenshots do app depois)
+> (screenshots do app depois)
 
 ---
 
